@@ -48,7 +48,7 @@ mcp_server/
 1. Clone the repository or extract the project files:
 
    ```bash
-   git clone https://github.com/ShobhitChaturvedi/Scopely_Pokemon_MCP.git
+   git clone https://github.com/ShobhitChaturvedi/Scopely_Poke_MCP.git
    cd Pokemon_mcp
    ```
 
@@ -239,11 +239,11 @@ python interactive_test.py demo
 
 **Shobhit Chaturvedi**  
 - **GitHub**: [@ShobhitChaturvedi](https://github.com/ShobhitChaturvedi)  
-- **Repository**: [Scopely_Pokemon_MCP](https://github.com/ShobhitChaturvedi/Scopely_Pokemon_MCP)  
+- **Repository**: [Scopely_Pokemon_MCP](https://github.com/ShobhitChaturvedi/Scopely_Poke_MCP)  
 
 ## 🤝 Contributing
 
-1. Fork the repository from [ShobhitChaturvedi/Scopely_Pokemon_MCP](https://github.com/ShobhitChaturvedi/Scopely_Pokemon_MCP)
+1. Fork the repository from [ShobhitChaturvedi/Scopely_Pokemon_MCP](https://github.com/ShobhitChaturvedi/Scopely_Poke_MCP)
 2. Create a feature branch: `git checkout -b feature/amazing-feature`
 3. Make your changes with comprehensive tests
 4. Add tests for new functionality
@@ -284,7 +284,7 @@ This project demonstrates:
 **Start your Pokemon adventure:**
 
 ```bash
-git clone https://github.com/ShobhitChaturvedi/Scopely_Pokemon_MCP.git
+git clone https://github.com/ShobhitChaturvedi/Scopely_Poke_MCP.git
 cd Scopely_Pokemon_MCP
 ./start_server.sh
 python interactive_test.py battle charizard mewtwo --level 50
